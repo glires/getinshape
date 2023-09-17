@@ -1,2 +1,4 @@
-# getinshape
-His weight data
+# Getinshape
+
+データベースを扱う練習のためのデータとして、ある男性の9ヶ月間の体重のデータを公開しています。
+
